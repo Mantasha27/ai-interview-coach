@@ -1,0 +1,51 @@
+ID,Answer
+1,"Supervised learning uses labeled data, while unsupervised learning uses unlabeled data."
+2,"Overfitting is when a model memorizes training data instead of generalizing. Prevented by cross-validation, regularization, or pruning."
+3,Bias-variance tradeoff balances underfitting (high bias) and overfitting (high variance).
+4,"Cross-validation types: k-fold, stratified k-fold, leave-one-out, time-series split."
+5,"Precision = TP / (TP+FP), Recall = TP / (TP+FN), F1 = harmonic mean of precision & recall."
+6,"Confusion matrix shows TP, FP, TN, FN values for classification evaluation."
+7,"Classification predicts categories, regression predicts continuous values."
+8,Dimensionality reduction reduces features while preserving important information.
+9,PCA reduces dimensions using eigenvectors of covariance matrix.
+10,Feature engineering is creating new features or modifying existing ones to improve model performance.
+11,One-hot encoding converts categorical variables into binary vectors.
+12,Bagging builds models independently; boosting builds models sequentially.
+13,Random Forest is an ensemble of decision trees trained with bagging.
+14,"Gradient Boosting builds models sequentially, minimizing errors step by step."
+15,"XGBoost is an efficient, scalable gradient boosting library, popular for competitions."
+16,Naive Bayes applies Bayes theorem assuming independence between features.
+17,"Outliers are extreme values; handled using capping, removal, or transformations."
+18,Multicollinearity is high correlation among predictors; reduces model interpretability.
+19,Correlation is association; causation is when one variable affects another.
+20,"Regularization adds penalty to model weights (L1 = Lasso, L2 = Ridge)."
+21,"Ridge shrinks coefficients, Lasso can shrink some to zero (feature selection)."
+22,Logistic regression is used for binary classification problems.
+23,ROC curve plots TPR vs FPR at different thresholds.
+24,AUC score measures area under ROC; higher is better.
+25,K-means partitions data into k clusters using distance-based minimization.
+26,Hierarchical clustering builds a tree of clusters (agglomerative/divisive).
+27,DBSCAN is a density-based clustering algorithm.
+28,Recommender systems suggest items to users based on preferences.
+29,Collaborative filtering uses user-item interactions; content-based uses item features.
+30,Time series forecasting predicts future values using past data.
+31,"ARIMA combines autoregression, differencing, and moving average."
+32,Stationarity means mean/variance are constant over time.
+33,Moving average smooths time series by averaging values over a window.
+34,Deep learning uses multi-layered neural networks to learn representations.
+35,"CNNs work well for images, RNNs for sequential data like text/speech."
+36,Backpropagation updates weights using gradient descent.
+37,Vanishing gradient occurs when gradients become very small in deep networks.
+38,Dropout randomly disables neurons during training to reduce overfitting.
+39,Batch GD uses all data; SGD uses one sample at a time.
+40,Transfer learning uses pre-trained models for new tasks.
+41,Reinforcement learning trains agents via rewards and penalties.
+42,Q-learning is a value-based RL algorithm using action-value functions.
+43,NLP processes and analyzes human language data.
+44,Word2vec creates vector embeddings of words using neural networks.
+45,TF-IDF measures importance of words based on frequency and rarity.
+46,Embeddings represent words/sentences in vector space.
+47,LDA is a topic modeling method assigning documents to topics.
+48,Sentiment analysis detects opinions/emotions from text.
+49,"Big Data refers to large, complex datasets requiring advanced processing."
+50,"Data science is broad (insights + ML), data analytics focuses on analysis, ML builds predictive models."

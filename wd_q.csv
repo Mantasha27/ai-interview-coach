@@ -1,0 +1,51 @@
+ID,Question
+1,What are semantic HTML tags?
+2,"Difference between inline, block, and inline-block."
+3,What is the difference between id and class in CSS?
+4,Explain event bubbling in JavaScript.
+5,What is AJAX?
+6,"Difference between localStorage, sessionStorage, and cookies."
+7,What is REST API?
+8,Explain the difference between SQL and NoSQL databases.
+9,What are React hooks?
+10,What is the difference between server-side rendering and client-side rendering?
+11,"What is the difference between var, let, and const?"
+12,Explain CSS Flexbox.
+13,Explain CSS Grid.
+14,What is responsive design?
+15,"Difference between relative, absolute, and fixed positioning."
+16,What is the DOM?
+17,Explain the difference between == and === in JavaScript.
+18,What is a closure in JavaScript?
+19,What is a promise in JavaScript?
+20,What is async/await in JavaScript?
+21,What are single-page applications?
+22,What is Node.js?
+23,Explain middleware in Express.js.
+24,What are components in React?
+25,What is JSX?
+26,What is virtual DOM?
+27,Explain props and state in React.
+28,What are lifecycle methods in React?
+29,What is Redux?
+30,What is CORS?
+31,Difference between PUT and POST requests.
+32,What is authentication vs authorization?
+33,What are web sockets?
+34,What is GraphQL?
+35,What are Progressive Web Apps?
+36,What is webpack?
+37,What is Babel?
+38,Explain hoisting in JavaScript.
+39,What is an arrow function?
+40,What is a service worker?
+41,Difference between GET and POST methods.
+42,What are HTTP status codes?
+43,What are cookies and why are they used?
+44,What is JSON?
+45,What is MVC architecture?
+46,What is two-way data binding?
+47,Explain RESTful API principles.
+48,What is cross-site scripting (XSS)?
+49,What is SQL injection?
+50,How do you secure a web application?

@@ -1,0 +1,51 @@
+ID,Answer
+1,"Semantic tags clearly define meaning, like <header>, <footer>, <article>."
+2,"Inline does not start a new line, block takes full width, inline-block allows block features inline."
+3,"ID is unique per page, class can be reused across elements."
+4,Event bubbling means events propagate from child to parent elements.
+5,AJAX allows asynchronous communication with servers without reloading pages.
+6,"localStorage stores data permanently, sessionStorage clears on close, cookies are small server-stored data."
+7,"REST API uses HTTP methods for communication like GET, POST, PUT, DELETE."
+8,"SQL is relational with fixed schema, NoSQL is flexible with unstructured data."
+9,React hooks let you use state and lifecycle in functional components.
+10,"Server-side rendering loads content on server, client-side renders in browser."
+11,"Var is function-scoped, let is block-scoped, const is block-scoped and constant."
+12,Flexbox arranges elements in flexible containers.
+13,CSS Grid arranges content in rows and columns.
+14,Responsive design adjusts layout to device screen sizes.
+15,"Relative moves relative to itself, absolute relative to parent, fixed to viewport."
+16,DOM is Document Object Model representing web page structure.
+17,"== checks value, === checks value and type."
+18,Closure is a function that remembers variables from its outer scope.
+19,Promise represents a future value from asynchronous code.
+20,Async/await simplifies handling asynchronous code.
+21,Single-page applications dynamically update content without reloads.
+22,Node.js is a runtime for JavaScript on the server.
+23,Middleware in Express.js handles requests before reaching route handler.
+24,Components are reusable UI pieces in React.
+25,"JSX is JavaScript XML, used to write HTML inside JS."
+26,Virtual DOM is a lightweight copy of real DOM used in React.
+27,"Props are inputs to components, state is internal data."
+28,Lifecycle methods run at different points in component’s life.
+29,Redux manages state in applications with predictable patterns.
+30,"CORS is Cross-Origin Resource Sharing, allows resources from different domains."
+31,"PUT updates resources, POST creates new ones."
+32,"Authentication verifies identity, authorization checks permissions."
+33,Web sockets provide two-way communication between client and server.
+34,GraphQL is a query language for APIs with flexible data fetching.
+35,PWAs are apps that behave like native apps in browsers.
+36,Webpack bundles JavaScript files and assets.
+37,Babel is a transpiler for using next-gen JavaScript features.
+38,Hoisting means variable and function declarations are moved to top.
+39,Arrow functions are concise functions using => syntax.
+40,Service worker is a script that runs in background for caching and offline.
+41,"GET retrieves data, POST sends data to server."
+42,"HTTP codes indicate request result, like 200 OK, 404 Not Found."
+43,Cookies store small data on client for session management.
+44,JSON is a lightweight data format for communication.
+45,"MVC separates model, view, and controller in applications."
+46,Two-way binding syncs data between UI and logic.
+47,"RESTful APIs follow principles like statelessness, resource-based URLs."
+48,XSS is injecting malicious scripts into web applications.
+49,SQL injection is inserting malicious SQL queries into input fields.
+50,"Use HTTPS, input validation, authentication, and secure coding practices."

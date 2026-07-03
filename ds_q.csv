@@ -1,0 +1,51 @@
+ID,Question
+1,What is the difference between supervised and unsupervised learning?
+2,Explain overfitting and how to prevent it.
+3,What is bias-variance tradeoff?
+4,What are different types of cross-validation?
+5,"Define precision, recall, and F1-score."
+6,What is a confusion matrix?
+7,Difference between classification and regression.
+8,What is dimensionality reduction?
+9,Explain PCA (Principal Component Analysis).
+10,What is feature engineering?
+11,What is one-hot encoding?
+12,Difference between bagging and boosting.
+13,What is Random Forest?
+14,Explain Gradient Boosting.
+15,What is XGBoost and why is it popular?
+16,Explain Naive Bayes classifier.
+17,What are outliers and how do you handle them?
+18,What is multicollinearity?
+19,Explain correlation vs causation.
+20,What is regularization (L1 and L2)?
+21,Difference between Ridge and Lasso regression.
+22,What is logistic regression used for?
+23,Explain the ROC curve.
+24,What is AUC score?
+25,What is K-means clustering?
+26,Explain hierarchical clustering.
+27,What is DBSCAN?
+28,What are recommender systems?
+29,Difference between collaborative and content-based filtering.
+30,What is time series forecasting?
+31,Explain ARIMA model.
+32,What is stationarity in time series?
+33,Explain moving average.
+34,What is deep learning?
+35,Difference between CNN and RNN.
+36,What is backpropagation?
+37,Explain vanishing gradient problem.
+38,What is dropout in neural networks?
+39,Difference between batch and stochastic gradient descent.
+40,What is transfer learning?
+41,Explain reinforcement learning.
+42,What is Q-learning?
+43,What is NLP (Natural Language Processing)?
+44,What is word2vec?
+45,Explain TF-IDF.
+46,What are embeddings in NLP?
+47,What is topic modeling (LDA)?
+48,Explain sentiment analysis.
+49,What is Big Data and how is it related to Data Science?
+50,"Explain difference between data science, data analytics, and machine learning."
